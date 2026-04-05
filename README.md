@@ -2,8 +2,9 @@
 
 🎓 CS Senior @ University of Illinois Chicago (Graduating May 2026, Cum Laude)  
 💼 Open to full-time roles in **Software Engineering** & **Data Engineering**  
-🏆 UIC SparkHacks 2025 — 2nd Place (AgriMitra)  
+🏆 UIC SparkHacks 2025 - 2nd Place (AgriMitra)  
 📍 Chicago, IL  
+📄 [View My Resume](https://github.com/ShailP200/ShailP200/raw/main/Shail_Patel_Resume.pdf)
 
 ---
 
