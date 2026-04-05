@@ -35,10 +35,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [AgriMitra](https://github.com/ShailP200) | AI-powered waste management platform — UIC Hackathon 2nd Place | Flask, React, OpenAI, MongoDB |
-| [2-Player Poker Game](https://github.com/ShailP200) | Real-time multiplayer Three Card Poker with client-server architecture | Java, JavaFX, Sockets |
-| [CTA Database App](https://github.com/ShailP200) | Python + SQL app analyzing Chicago Transit Authority ridership trends | Python, SQL, Matplotlib |
-| [UIC Campus Navigator](https://github.com/ShailP200) | C++ campus navigation using Dijkstra's algorithm and graph theory | C++, Algorithms |
+| [AgriMitra](https://github.com/vandituv03/Sparkhacks2025.git) | AI-powered waste management platform — UIC Hackathon 2nd Place | Flask, React, OpenAI, MongoDB |
+| [2-Player Poker Game](https://github.com/ShailP200/2-Player-Poker-Java.git) | Real-time multiplayer Three Card Poker with client-server architecture | Java, JavaFX, Sockets |
+| [IMDB Search Engine](https://github.com/ShailP200/IMDB-Search-Engine) | C++ command-line app to search movies and actors using TSV datasets | C++, Data Structures, File I/O |
 
 ---
 
