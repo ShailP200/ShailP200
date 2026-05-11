@@ -1,6 +1,5 @@
 # Hi, I'm Shail Patel 👋
-
-🎓 CS Senior @ University of Illinois Chicago (Graduating May 2026, Cum Laude)  
+🎓 CS Graduate @ University of Illinois Chicago (Class of May 2026, Cum Laude)  
 💼 Open to full-time roles in **Software Engineering** & **Data Engineering**  
 🏆 UIC SparkHacks 2025 - 2nd Place (AgriMitra)  
 📍 Chicago, IL  
@@ -8,8 +7,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+![Shail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShailP200&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShailP200&layout=compact&theme=tokyonight)
 
+---
+## 🛠️ Tech Stack
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -31,9 +33,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
 ---
-
 ## 🚀 Featured Projects
-
 | Project | Description | Tech |
 |--------|-------------|------|
 | [AgriMitra](https://github.com/vandituv03/Sparkhacks2025.git) | AI-powered waste management platform — UIC Hackathon 2nd Place | Flask, React, OpenAI, MongoDB |
@@ -42,9 +42,7 @@
 | [IMDB Search Engine](https://github.com/ShailP200/IMDB-Search-Engine) | C++ command-line app to search movies and actors using TSV datasets | C++, Data Structures, File I/O |
 
 ---
-
 ## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailpatel200)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://shailp200.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelshail200@gmail.com)
