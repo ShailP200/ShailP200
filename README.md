@@ -6,11 +6,6 @@
 📄 [View My Resume](https://github.com/ShailP200/ShailP200/raw/main/Shail_Patel_Resume.pdf)
 
 ---
-
-![Shail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShailP200&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShailP200&layout=compact&theme=tokyonight)
-
----
 ## 🛠️ Tech Stack
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
